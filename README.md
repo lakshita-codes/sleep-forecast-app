@@ -49,7 +49,7 @@ A user-friendly web interface built with Streamlit that allows users to:
 * View predictions
 * Explore insights interactively
 
-🔗 *(Add your Streamlit app link here)*
+🔗 *([Streamlit app link here](https://sleep-forecast-app-xpirbz7kdywg9atflleegz.streamlit.app/))*
 
 ---
 
