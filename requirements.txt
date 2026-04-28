@@ -3,7 +3,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
-statsmodels
-joblib
-tensorflow
 prophet
+tensorflow
+cmdstanpy
