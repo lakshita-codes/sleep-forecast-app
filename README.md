@@ -67,7 +67,7 @@ An interactive web app that enables users to:
 * View performance metrics (MAE, RMSE)
 * Receive personalized insights and recommendations
 
-🔗 [Live Streamlit App](https://sleep-forecast-app-xpirbz7kdywg9atflleegz.streamlit.app/)
+🔗 [Live Streamlit App](https://sleep-analytics-app.streamlit.app/)
 
 ---
 
